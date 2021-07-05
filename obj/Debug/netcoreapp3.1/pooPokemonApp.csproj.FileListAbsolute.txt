@@ -1,0 +1,11 @@
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\pooPokemonApp\bin\Debug\netcoreapp3.1\pooPokemonApp.exe
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\pooPokemonApp\bin\Debug\netcoreapp3.1\pooPokemonApp.deps.json
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\pooPokemonApp\bin\Debug\netcoreapp3.1\pooPokemonApp.runtimeconfig.json
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\pooPokemonApp\bin\Debug\netcoreapp3.1\pooPokemonApp.runtimeconfig.dev.json
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\pooPokemonApp\bin\Debug\netcoreapp3.1\pooPokemonApp.dll
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\pooPokemonApp\bin\Debug\netcoreapp3.1\pooPokemonApp.pdb
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\pooPokemonApp\obj\Debug\netcoreapp3.1\pooPokemonApp.csprojAssemblyReference.cache
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\pooPokemonApp\obj\Debug\netcoreapp3.1\pooPokemonApp.AssemblyInfoInputs.cache
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\pooPokemonApp\obj\Debug\netcoreapp3.1\pooPokemonApp.AssemblyInfo.cs
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\pooPokemonApp\obj\Debug\netcoreapp3.1\pooPokemonApp.dll
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\pooPokemonApp\obj\Debug\netcoreapp3.1\pooPokemonApp.pdb
