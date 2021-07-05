@@ -6,10 +6,8 @@ namespace pooPokemonApp
     {
         static void Main(string[] args)
         {
-            Pokemon pokemon = new Pokemon();
-            pokemon.Nome = "Bulbasauro";
-            pokemon.Descricao = "Bulbasauro é um pokemo tipo planta...";
-            pokemon.ExibirDadosPokemon();
+            Pokemon pokemon = new Pokemon("Bulbasauro", "Bulbasauro é um pokemon tipo planta...");
+            pokemon.ExibirDadosPokemon(true);
 
         }
     }
