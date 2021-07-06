@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 
 namespace pooPokemonApp
@@ -47,6 +48,7 @@ namespace pooPokemonApp
         {
             for (int i = 0; i < this.Pokemons.Count; i++)
             {
+                Console.WriteLine("Código do pokémon: " + i);
                 this.Pokemons[i].ExibirDadosPokemon();
             }
         }
