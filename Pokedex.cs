@@ -42,5 +42,13 @@ namespace pooPokemonApp
             pokemon = new Pokemon("Mudkip", "lendario de agua");
             this.pokemons.Add(pokemon);
         }
+
+        public void ListarPokemons()
+        {
+            for (int i = 0; i < this.Pokemons.Count; i++)
+            {
+                this.Pokemons[i].ExibirDadosPokemon();
+            }
+        }
     }
 }
