@@ -11,6 +11,7 @@ namespace pooPokemonApp
             while (resp != 0)
             {
                 resp = Menu();
+                Console.Clear();
                 if (resp == 1)
                 {
                     pokedex.ListarPokemons();
@@ -24,6 +25,13 @@ namespace pooPokemonApp
                     Random random = new Random();
                     codigo = random.Next(0, pokedex.Pokemons.Count);
                     PokemonPlus pPC = pokedex.Pokemons[codigo];
+
+                    Console.WriteLine("Dados dos pokémons que irão lutar");
+                    Console.WriteLine("Dados do seu pokémon");
+                    pPlayer.ExibirDadosPokemonPlus();
+                    Console.WriteLine("Dados do outro pokémon");
+                    pPC.ExibirDadosPokemonPlus();
+
                     if (pPlayer.Poder >= pPC.Poder)
                     {
                         Console.WriteLine("Parabens!!! Você ganhou");
